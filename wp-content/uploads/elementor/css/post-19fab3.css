@@ -1,0 +1,188 @@
+.elementor-19 .elementor-element.elementor-element-e987ba5 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:space-between;align-items:space-between;}.elementor-19 .elementor-element.elementor-element-e987ba5:not(.elementor-motion-effects-element-type-background), .elementor-19 .elementor-element.elementor-element-e987ba5 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#020017;}.elementor-19 .elementor-element.elementor-element-e987ba5 > .elementor-background-overlay{background-image:url("../../2023/08/tgcasino3.jpg");opacity:0.2;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-19 .elementor-element.elementor-element-e987ba5{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:-17px;padding:0px 0px -10px 0px;}.elementor-19 .elementor-element.elementor-element-6ba205c > .elementor-element-populated{padding:0px 25px 22px 22px;}.elementor-19 .elementor-element.elementor-element-59f325d img{width:464px;}.elementor-19 .elementor-element.elementor-element-59f325d > .elementor-widget-container{padding:55px 0px 0px 0px;}.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-bottom:calc(10px/2);}.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-top:calc(10px/2);}.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:calc(10px/2);margin-left:calc(10px/2);}.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-items.elementor-inline-items{margin-right:calc(-10px/2);margin-left:calc(-10px/2);}body.rtl .elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{left:calc(-10px/2);}body:not(.rtl) .elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{right:calc(-10px/2);}.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-icon i{color:#FFFFFF;transition:color 0.3s;}.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-icon svg{fill:#FFFFFF;transition:fill 0.3s;}.elementor-19 .elementor-element.elementor-element-84c1389{--e-icon-list-icon-size:15px;--e-icon-list-icon-align:center;--e-icon-list-icon-margin:0 calc(var(--e-icon-list-icon-size, 1em) * 0.125);--icon-vertical-offset:0px;}.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-icon{padding-right:15px;}.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-item > a{font-family:"Poppins", Sans-serif;font-size:14px;font-weight:400;}.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-text{color:#FFFFFF;transition:color 0.3s;}.elementor-19 .elementor-element.elementor-element-84c1389 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:35px 0px 0px 0px;}.elementor-19 .elementor-element.elementor-element-9a6d4ca:not(.elementor-motion-effects-element-type-background), .elementor-19 .elementor-element.elementor-element-9a6d4ca > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#12133A;}.elementor-19 .elementor-element.elementor-element-9a6d4ca{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-19 .elementor-element.elementor-element-9a6d4ca > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-19 .elementor-element.elementor-element-3218605 > .elementor-element-populated{padding:33px 33px 33px 33px;}.elementor-19 .elementor-element.elementor-element-abefcc0 img{width:45px;border-radius:10px 10px 10px 10px;}/* Start custom CSS for icon-list, class: .elementor-element-84c1389 */.elementor-19 .elementor-element.elementor-element-84c1389{
+    --radius: 8px;
+    
+}
+.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-icon{
+  color: currentColor;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: currentColor;
+  text-align: center;
+}
+.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-item.active .elementor-icon-list-icon,
+.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-item:hover .elementor-icon-list-icon{
+    -webkit-text-stroke-width: 1px;
+}
+.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-item a{
+    padding: 13px 18px !important;
+    border-radius: var(--radius);
+}
+.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-item.active a,
+.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-item:hover a{
+    background: #fff;
+}
+.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-item.active span,
+.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-item:hover span,
+.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-item.active span i,
+.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-item:hover span i{
+    color: #000;
+}
+.elementor-19 .elementor-element.elementor-element-84c1389 .elementor-icon-list-text{
+    min-width: var(--width);
+}
+.elementor-19 .elementor-element.elementor-element-84c1389 a:focus{
+    outline: none;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-e987ba5 */:root{
+    --w: 250px;
+    --narrow-width: 80px;
+}
+
+.elementor-19 .elementor-element.elementor-element-e987ba5{
+    width: var(--w);
+    overflow: auto;
+    position: fixed;
+    transition: all 0.3s ease-in-out !important;
+    overflow-x: hidden;
+    z-index: 1;
+    -ms-overflow-style: none;
+    scrollbar-width: none
+}
+.elementor-19 .elementor-element.elementor-element-e987ba5::-webkit-scrollbar{
+    display: none;
+}
+
+.sidebar-toggle{
+    cursor: pointer;
+}
+
+body.opening .elementor-19 .elementor-element.elementor-element-e987ba5{
+    width: var(--narrow-width) !important;
+}
+body.opening .elementor-19 .elementor-element.elementor-element-e987ba5 .elementor-inner-section .elementor-widget-wrap{
+    padding-left: 14px !important;
+    padding-right: 14px !important;
+}
+.elementor-19 .elementor-element.elementor-element-e987ba5 .logo{
+    transition: all 0.3s ease-in-out;
+}
+body.opening .elementor-19 .elementor-element.elementor-element-e987ba5 .logo{
+    opacity: 0;
+}
+body.open .elementor-19 .elementor-element.elementor-element-e987ba5 .logo{
+    display: none;
+}
+body.opening .elementor-19 .elementor-element.elementor-element-e987ba5 .sidebar-toggle{
+    right: 26px;
+}
+.elementor-19 .elementor-element.elementor-element-e987ba5 .elementor-widget-search-form form{
+    position: relative;
+}
+.elementor-19 .elementor-element.elementor-element-e987ba5 .elementor-widget-search-form form:before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+body.opening .elementor-19 .elementor-element.elementor-element-e987ba5 .elementor-widget-search-form form:before{
+    z-index: 1;
+}
+body.opening .elementor-19 .elementor-element.elementor-element-e987ba5 .elementor-search-form__icon{
+    padding-left: 14px !important;
+}
+.elementor-19 .elementor-element.elementor-element-e987ba5 .elementor-icon-list-text{
+    transition: all 0.3s ease-in-out;
+}
+body.opening .elementor-19 .elementor-element.elementor-element-e987ba5 .elementor-icon-list-text{
+    opacity: 0;
+}
+
+.elementor-19 .elementor-element.elementor-element-e987ba5 .elementor-widget-image-box{
+    transition: all 0.3s ease-in-out;
+}
+body.opening .elementor-19 .elementor-element.elementor-element-e987ba5 .elementor-widget-image-box{
+    opacity: 0;
+}
+.elementor-19 .elementor-element.elementor-element-e987ba5 .user{
+    transition: all 0.3s ease-in-out;
+}
+body.opening .elementor-19 .elementor-element.elementor-element-e987ba5 .user .elementor-widget-wrap{
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+body.opening  .elementor-19 .elementor-element.elementor-element-e987ba5 .user img {
+    width: 40px;
+    transition: all 0.3s ease-in-out;
+}
+
+header + *,
+[data-elementor-type="header"] + *,
+footer,
+[data-elementor-type="footer"]{
+    margin-left: var(--w);
+    transition: all 0.3s ease-in-out !important;
+}
+body.opening header + *,
+body.opening [data-elementor-type="header"] + *,
+body.opening footer,
+body.opening [data-elementor-type="footer"]{
+    margin-left: var(--narrow-width);
+}
+
+@media (max-width: 1024px){
+header + *,
+[data-elementor-type="header"] + *,
+footer,
+[data-elementor-type="footer"]{
+    margin-left: var(--narrow-width);
+    transform: translateX(calc(var(--w) - var(--narrow-width)));
+    transition: all 0.6s ease-in-out !important;
+}
+body.opening header + *,
+body.opening [data-elementor-type="header"] + *,
+body.opening footer,
+body.opening [data-elementor-type="footer"]{
+    transform: translateX(0);
+    transition: all 0.3s ease-in-out !important;
+}
+html, body{
+    overflow-x: hidden;
+}
+}
+
+@media (max-width: 767px){
+.elementor-19 .elementor-element.elementor-element-e987ba5{
+    height: 100vh;
+    transform: translateX(calc(-1*var(--w)));
+}
+
+body.left .elementor-19 .elementor-element.elementor-element-e987ba5{
+    transform: translateX(0);   
+}
+header + *,
+[data-elementor-type="header"] + *,
+footer,
+[data-elementor-type="footer"]{
+    margin-left: 0;
+    transform: translateX(0);
+    transition: all 0.3s ease-in-out !important;
+}
+body.left header + *,
+body.left [data-elementor-type="header"] + *,
+body.left footer,
+body.left [data-elementor-type="footer"]{
+    transform: translateX(var(--w));
+}
+.elementor-19 .elementor-element.elementor-element-e987ba5 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{
+    height: 100vh;
+}
+}
+
+.site-content footer,
+.site-content header + *{
+    margin: 0 !important;
+    transform: none !important;
+}/* End custom CSS */
