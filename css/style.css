@@ -1,0 +1,140 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-image: url(../assets/table.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  color: white;
+  text-align: center;
+  background-color: #2d7835;
+
+}
+
+.header {
+ 
+  text-align: center;
+  background: rgb(232,224,117);
+  background: linear-gradient(0deg, rgba(232,224,117,1) 0%, rgba(1,1,1,1) 15%);
+  color: gold;
+  font-family: 'Pushster', cursive;
+  padding: .5rem;
+  word-spacing: 2rem;
+  letter-spacing: .3rem;
+  font-size: 8rem;
+
+}
+
+.row21{
+  display: flex;
+  margin-top: 3rem;
+  justify-content: space-around;
+  margin-bottom: 3rem;
+}
+
+.card {
+  background-color: white;
+  border: solid black 4px;
+  border-radius: 10px;
+  height: 350px;
+  margin: 0 auto;
+  margin-bottom: 35px;
+  margin-top: 100px;
+  outline: groove white 4px;
+  outline-offset: 20px;
+  width: 250px;
+}
+
+.card2 {
+  background-color: white;
+  border: solid black 4px;
+  border-radius: 10px;
+  height: 350px;
+  margin: 0 auto;
+  margin-bottom: 35px;
+  margin-top: 100px;
+  outline: groove white 4px;
+  outline-offset: 20px;
+  width: 250px;
+}
+
+.card_suit{
+  color: black;
+  font-size: 75px;
+  text-align: center;
+}
+
+#cardNumber {
+  color: black;
+  font-size: 75px;
+}
+
+#cardNumber2 {
+  color: black;
+  font-size: 75px;
+}
+
+
+.outer-card {
+  border: white solid 4px;
+  border-radius: 10px;
+  height: 400px;
+  margin-top: 100px;
+  width: 300px;
+}
+
+.images{
+  margin-top: 20px;
+}
+
+.rules {
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  position: relative;
+}
+
+@keyframes makeBigger {
+  0% { font-size: 16px; }
+  100% {font-size: 18px;
+  color: red;}
+}
+
+.lives {
+  animation: makeBigger;
+  animation-duration: 2s;
+}
+
+.score {
+  animation: makeBigger;
+  animation-duration: 2s;
+}
+
+.header {
+  font-size: 15vh;
+}
+
+
+.buttons{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 55%;
+}
+
+.buttons button{
+  font-size: 2.2rem;
+  font-weight: 700;
+  font-family: 'Lobster', cursive;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: .2rem;
+  padding-bottom: .2rem;
+  margin: 1.5rem;
+}
